@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">I am a final year computer science student.</h3>
-<h3 align="center"><a href="https://martinhell.quantumcode.company"> <img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" alt="php" width="40" height="40"/> My Portfolio <img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" alt="php" width="40" height="40"/> </a></h3>
+<h3 align="center"><a href="https://martinhell.quantumcode.company"> <img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" alt="php" width="22" height="22"/> My Portfolio <img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" alt="php" width="22" height="22"/> </a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quantumcode-martin&label=Profile%20views&color=000000&style=flat" alt="quantumcode-martin" /> </p>
 
