@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [martinhell.quantumcode.company#projects](martinhell.quantumcode.company#projects)
 
-- 📫 How to reach me **martin.hell@telecomnancy.net**
+- 📫 Contact me **martin.hell@telecomnancy.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
