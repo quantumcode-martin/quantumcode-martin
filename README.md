@@ -10,7 +10,7 @@
 
 - 🌍 I’m looking to collaborate on [Fourier Signals Evolver](https://github.com/quantumcode-martin/fourier-series-evolver)
 
-- 👨‍💻 All of my projects are available at [https://martinhell.quantumcode.company#projects](martinhell.quantumcode.company#projects)
+- 👨‍💻 All of my projects are available at [martinhell.quantumcode.company#projects](https://martinhell.quantumcode.company#projects)
 
 - 📫 Contact me **martin.hell@telecomnancy.net**
 
