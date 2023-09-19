@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">I am a final year computer science student<br>and a Data Engineer intern at Glint Solar.</h3>
-<h3 align="center"><a href="https://martinhell.quantumcode.company"> <img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" alt="php" width="22" height="22"/> My Portfolio <img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" alt="php" width="22" height="22"/> </a></h3>
+<h3 align="center"><a href="https://martinhell.qtmcode.com"> <img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" alt="php" width="22" height="22"/> My Portfolio <img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" alt="php" width="22" height="22"/> </a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quantumcode-martin&label=Profile%20views&color=000000&style=flat" alt="quantumcode-martin" /> </p>
 
-- ♟ I’m currently working on [Chess Brain](https://martinhell.quantumcode.company/project/chess_brain)
+- ♟ I’m currently working on [Chess Brain](https://martinhell.qtmcode.com/project/chess_brain)
 
 <!-- - 🔍 I’m looking for **an Internship** -->
 
 - 🌍 I’m looking to collaborate on [Fourier Signals Evolver](https://github.com/quantumcode-martin/fourier-series-evolver)
 
-- 👨‍💻 All of my projects are available at [martinhell.quantumcode.company#projects](https://martinhell.quantumcode.company#projects)
+- 👨‍💻 All of my projects are available at [martinhell.qtmcode.com#projects](https://martinhell.qtmcode.com#projects)
 
 - 📫 Contact me **martin.hell@telecomnancy.net**
 
