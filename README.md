@@ -4,14 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quantumcode-martin&label=Profile%20views&color=000000&style=flat" alt="quantumcode-martin" /> </p>
 
-- ♟ I’m currently working on [Chess Brain](https://martinhell.qtmcode.com/project/chess_brain)
-
-<!-- - 🔍 I’m looking for **an Internship** -->
-
-- 🌍 I’m looking to collaborate on [Fourier Signals Evolver](https://github.com/quantumcode-martin/fourier-series-evolver)
-
-- 👨‍💻 All of my projects are available at [martinhell.qtmcode.com#projects](https://martinhell.qtmcode.com#projects)
-
 - 📫 Contact me **martin.hell@telecomnancy.net**
 
 <h3 align="left">Connect with me:</h3>
